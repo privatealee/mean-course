@@ -1,0 +1,10 @@
+mat-form-field,
+textarea {
+  width: 100%;
+}
+.test {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
